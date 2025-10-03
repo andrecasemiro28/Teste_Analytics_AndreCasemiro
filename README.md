@@ -98,7 +98,7 @@ Identificação do Melhor Produto: Por fim, .idxmax() é usado para apontar o no
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 
 
-#Insights da Analise Exploratoria
+# Insights da Analise Exploratoria
 Gráfico 1: Tendência de Vendas Mensais ao Longo de 2023
 O primeiro gráfico mostra a evolução do faturamento total, mês a mês, ao longo do ano de 2023. Isso nos ajuda a visualizar a sazonalidade e os períodos de maior ou menor atividade comercial.
 
