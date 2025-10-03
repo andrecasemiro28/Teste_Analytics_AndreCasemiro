@@ -84,3 +84,20 @@ print("Gráfico de vendas por categoria salvo como 'vendas_por_categoria.png'")
 
 # Exibe os gráficos (opcional, pode ser desativado se rodar como script)
 plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
