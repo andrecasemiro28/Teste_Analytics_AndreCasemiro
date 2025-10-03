@@ -93,3 +93,18 @@ Agrupamento: A função .groupby('Produto') agrega todas as transações por pro
 Soma e Ordenação: O método .sum() calcula o faturamento total para cada produto, e .sort_values(ascending=False) os ordena do mais rentável para o menos.
 
 Identificação do Melhor Produto: Por fim, .idxmax() é usado para apontar o nome do produto que corresponde ao maior valor de faturamento, entregando o principal insight da análise.
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- Insights da Analise Exploratoria
+Gráfico 1: Tendência de Vendas Mensais ao Longo de 2023
+O primeiro gráfico mostra a evolução do faturamento total, mês a mês, ao longo do ano de 2023. Isso nos ajuda a visualizar a sazonalidade e os períodos de maior ou menor atividade comercial.
+
+Gráfico 2: Faturamento por Categoria de Produto
+Para obter um insight mais profundo sobre o desempenho, analisei o faturamento total gerado por cada categoria de produto. Este gráfico de barras compara diretamente as categorias, mostrando quais são as mais importantes para o negócio.
+
+Insights e Padrões Observados
+Com base nas visualizações, podemos extrair pelo menos dois insights importantes:
+
+Concentração de Vendas no Final do Ano: Analisando o gráfico de tendência mensal, observa-se um pico significativo de vendas nos últimos meses do ano, especialmente em Dezembro. As vendas começam de forma moderada, apresentam uma queda no meio do ano (entre Junho e Julho) e disparam no último trimestre. Este é um padrão clássico de sazonalidade, possivelmente impulsionado por eventos como a Black Friday e as festas de fim de ano, indicando uma ótima janela para campanhas de marketing e reforço de estoque.
+
+Categoria "Eletrônicos" Domina o Faturamento: O gráfico de vendas por categoria deixa claro que os Eletrônicos são, de longe, a categoria mais lucrativa, gerando um faturamento substancialmente maior que Acessórios e Móveis somados. Produtos como "Laptop Gamer" e "Smartphone Pro", que possuem alto valor agregado, são os principais motores desse resultado. Isso sugere que o público da loja tem um forte interesse em produtos de maior tecnologia e valor, sendo este o segmento principal que garante a saúde financeira do negócio.
